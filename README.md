@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saswat Mohapatra</h1>
+<h3 align="center">A passionate Full Stack Java Developer from India 🇮🇳</h3>
 
-<!--
-**saswat2/saswat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- ☕ Java | Spring Boot | REST APIs | MySQL
+- ⚛️ React.js | API Integration
+- 🧠 Learning DSA, System Design & Microservices
+- 🌍 Open to Full Stack / Backend / Remote roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤝 Looking to Collaborate On
+- Open Source Projects
+- Java & Spring Boot Applications
+
+---
+
+### 📫 How to reach me
+- 📧 saswatmohapatra979@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/saswat-mohapatra-668773218/
+
+---
+
+### 🛠️ Tech Stack
+Java | Spring Boot | Hibernate | MySQL | React | Git | GitHub | Postman | Docker
